@@ -8,7 +8,7 @@ phone = "+994707909291"
 source_channel_name = 'main bitches'
 
 # The channel/Group that you want to send messages to
-destination_channel_link = -1001874052676
+destination_channel_link = -1002036882605
 
 client = TelegramClient(phone, api_id, api_hash)
 
